@@ -6,7 +6,7 @@ Computer Science Major
 
 Prairie View, TX | 469-993-9622 | bshaw13@pvamu.edu
 
-linkedin.com/in/braden-shaw-818695234
+[LinkedIn](linkedin.com/in/braden-shaw-818695234)
 
 PROFESSIONAL SUMMARY
 -----------------------------------------------------------------------------------------------------------------------------

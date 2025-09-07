@@ -40,13 +40,13 @@ Data Structures
 
 • Dance Score Program
 
-• Tasked with reorganizing judges’ dance scores data along the dancers’ ID and hourly rate in a new separate file
+ Tasked with reorganizing judges’ dance scores data along the dancers’ ID and hourly rate in a new separate file
 
 Computer Science I & II
 
 • Rearranged Array Program
 
-• Tasked with flipping the order of numbers in the array from least to greatest
+ Tasked with flipping the order of numbers in the array from least to greatest
 
 WORK EXPERIENCE
 -----------------------------------------------------------------------------------------------------------------------------
